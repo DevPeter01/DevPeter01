@@ -81,7 +81,7 @@ A career and skill development platform that helps users explore structured lear
 ## 📫 Connect With Me
 
 * GitHub: github.com/DevPeter01
-* Portfolio: Add your portfolio link
-* LinkedIn: Add your LinkedIn profile
+* Portfolio: https://peterrfolio.netlify.app/
+* LinkedIn: www.linkedin.com/in/rohith-palanivel-a0089b304
 
 Thanks for visiting my profile! Feel free to explore my repositories and projects.
